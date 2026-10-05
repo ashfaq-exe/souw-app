@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251632687328",
+    "project_id": "souw-99c80",
+    "storage_bucket": "souw-99c80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251632687328:android:8c03b11e631c423f3e1885",
+        "android_client_info": {
+          "package_name": "com.example.souw_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Sbu7gURkgrlvMgcY7bkeyLYDOVGFIG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
